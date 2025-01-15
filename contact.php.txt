@@ -7,7 +7,7 @@
                 <?php include "Date.php"; ?>
             </td>
             <td width="43" rowspan="2">&nbsp;</td>
-        </tr>ghgngjgjgjyg
+        </tr>
         <tr>
 
                 <img src="images/map.gif">
